@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"awesomeProject/server/model"
+	"praksa_nimbustech/server/model"
 )
 
 var Users = []model.User{
