@@ -1,7 +1,7 @@
 package command
 
 import (
-	"awesomeProject/server_DB_gl_er_handler/model"
+	"praksa_nimbustech/server_DB_gl_er_handler/model"
 	"encoding/json"
 	"fmt"
 	"gorm.io/driver/postgres"
