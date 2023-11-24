@@ -1,8 +1,8 @@
 package api
 
 import (
-	"awesomeProject/server_global_error_handler/command"
-	"awesomeProject/server_global_error_handler/error"
+	"praksa_nimbustech/server_global_error_handler/command"
+	"praksa_nimbustech/server_global_error_handler/error"
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"

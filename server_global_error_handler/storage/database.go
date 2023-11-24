@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"awesomeProject/server_global_error_handler/model"
+	"praksa_nimbustech/server_global_error_handler/model"
 )
 
 var Users = []model.User{

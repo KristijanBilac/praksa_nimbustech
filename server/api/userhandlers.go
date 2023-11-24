@@ -1,7 +1,7 @@
 package api
 
 import (
-	"awesomeProject/server/command"
+	"praksa_nimbustech/server/command"
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"

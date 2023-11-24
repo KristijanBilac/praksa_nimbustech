@@ -1,8 +1,8 @@
 package command
 
 import (
-	"awesomeProject/server_global_error_handler/model"
-	"awesomeProject/server_global_error_handler/storage"
+	"praksa_nimbustech/server_global_error_handler/model"
+	"praksa_nimbustech/server_global_error_handler/storage"
 	"encoding/json"
 	"fmt"
 	"net/http"

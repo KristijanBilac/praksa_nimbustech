@@ -1,8 +1,8 @@
 package api
 
 import (
-	"awesomeProject/server_DB_gl_er_handler/command"
-	"awesomeProject/server_DB_gl_er_handler/error"
+	"praksa_nimbustech/server_DB_gl_er_handler/command"
+	"praksa_nimbustech/server_DB_gl_er_handler/error"
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"

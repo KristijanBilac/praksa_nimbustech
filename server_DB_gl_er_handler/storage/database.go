@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"awesomeProject/server_DB_gl_er_handler/model"
+	"praksa_nimbustech/server_DB_gl_er_handler/model"
 	"fmt"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
@@ -10,7 +10,7 @@ import (
 var DB *gorm.DB
 var err error
 
-const DNS = "postgres://yeieycvd:Gy64kVxRFgZdOy_C8Jtrfjiowx8IVSgV@trumpet.db.elephantsql.com/yeieycvd"
+const DNS = "postgres://yeieycvd:xxxxxxxxxxxxxxx@trumpet.db.elephantsql.com/yeieycvd"
 
 func InitialMigration() {
 	DB, err = gorm.Open(postgres.Open(DNS), &gorm.Config{})
