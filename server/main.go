@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/server/api"
+	"praksa_nimbustech/server/api"
 )
 
 func main() {
