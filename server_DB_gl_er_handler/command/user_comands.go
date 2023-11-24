@@ -12,7 +12,7 @@ import (
 var DB *gorm.DB
 var err error
 
-const DNS = "postgres://yeieycvd:Gy64kVxRFgZdOy_C8Jtrfjiowx8IVSgV@trumpet.db.elephantsql.com/yeieycvd"
+const DNS = "postgres://yeieycvd:xxxxxxxxxxxxxxx@trumpet.db.elephantsql.com/yeieycvd"
 
 func GetUser(w http.ResponseWriter, r *http.Request) {
 	if r.URL.Query().Get("error") == "true" {
