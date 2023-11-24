@@ -1,8 +1,8 @@
 package command
 
 import (
-	"awesomeProject/server/model"
-	"awesomeProject/server/storage"
+	"praksa_nimbustech/server/model"
+	"praksa_nimbustech/server/storage"
 	"encoding/json"
 	"fmt"
 	"net/http"
