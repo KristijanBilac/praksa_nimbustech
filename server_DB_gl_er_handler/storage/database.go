@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"awesomeProject/server_DB_gl_er_handler/model"
+	"praksa_nimbustech/server_DB_gl_er_handler/model"
 	"fmt"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
