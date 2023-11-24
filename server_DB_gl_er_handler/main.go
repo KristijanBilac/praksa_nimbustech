@@ -1,8 +1,8 @@
 package main
 
 import (
-	"awesomeProject/server_DB_gl_er_handler/api"
-	"awesomeProject/server_DB_gl_er_handler/storage"
+	"praksa_nimbustech/server_DB_gl_er_handler/api"
+	"praksa_nimbustech/server_DB_gl_er_handler/storage"
 )
 
 func main() {
